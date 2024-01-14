@@ -1,0 +1,7 @@
+# .gitignore
+
+# Ignore config folder
+/config/
+
+# Ignore .env file inside config folder
+.env
